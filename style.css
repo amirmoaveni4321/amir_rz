@@ -1,0 +1,78 @@
+.b{
+    background-image: url('./IMG/iphone-16-rumors-00000.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700PX;
+}
+.main1-div3{
+    margin-top: 350px;
+}
+.main2{
+    background-image: url('./IMG/iphone-16-design.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.mar{
+    margin-top: 350px;
+}
+.main3{
+    background-image: url('./IMG/56556-115018-Series-9-laying-side-xl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.left{
+    background-image: url('./IMG/audio_voice__fsh5v6wchyqa_large.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.right{
+    background-image: url('./IMG/audio_airpod__fxaq33c1a7iy_large.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.main5-left{
+    background-image: url('./IMG/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.main5-right{
+    background-image: url('./IMG/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.main6-left{
+    background-image: url('./IMG/50.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.main6-right{
+    background-image: url('./IMG/53.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+.main7{
+    background-color: #F5F5F7;
+    margin-top: 100px;
+}
+.main8{
+    background-color: #F5F5F7;
+}
+a{
+    color: #B2B2B3;
+}
+.nimol p{
+    font-size: 12px;
+    color: #B2B2B3;
+    width: 90%;
+}
+.ggn{
+    background-color: #F5F5F7;
+}
